@@ -133,13 +133,6 @@ Follow these steps to set up the project:
 ![Form to Post the Blog](Form_to_Post_the_Blog.png)
 
 ## Tools Used
-
-- **Python** - Programming language
-- **Django** - Web framework
-- **Django Rest Framework** - API framework
-- **SQLite** - Default database
-- **Bootstrap** - Frontend styling
-- **Postman** - API testing tool
   <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
